@@ -5,10 +5,15 @@
 @{
     ViewBag.Title = "All Tickets";
     var ticketCount = (int)ViewData["totalTicketCount"];
+    var lastTicketNr = (int)ViewData["lastTicketNr"];
+    var firstTicketNr = (int)ViewData["firstTicketNr"];
+    
+
+
 }
 
 <div id="ticketTableWrapper">
-    <h3>@ticketCount Ticket(s)</h3>
+    <h3>@firstTicketNr - @lastTicketNr / @ticketCount Ticket(s)</h3>
     <table class="table table-hover">
         <tr>
             <th>Description</th>

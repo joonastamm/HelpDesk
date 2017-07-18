@@ -12,15 +12,28 @@ namespace HelpDesk.Controllers
 {
     public class TicketController : Controller
     {
+        public const int PAGE_SIZE = 10;
+
         public ActionResult Index()
         {
+            //Display only unsolved tickets on front page
             return View(Tickets.Where(x => !x.isSolved()).ToList());
         }
 
-        public ActionResult All(int? page)
+        public ActionResult All(int page = 1)
         {
+            //Use pagination for "All" page
             ViewData["totalTicketCount"] = Tickets.Count();
-            return View(Tickets.ToPagedList(page ?? 1, 10));
+            int lastTicketNr, firstTicketNr = 0;       
+            IPagedList<Ticket> ViewList = Tickets.ToPagedList(page, PAGE_SIZE);
+            if (ViewList.Count > 0)
+            {
+                firstTicketNr = page * PAGE_SIZE - (PAGE_SIZE - 1);
+            }
+            lastTicketNr = ViewList.Count() > 0 ? firstTicketNr + (ViewList.Count() - 1) : firstTicketNr;
+            ViewData["firstTicketNr"] = firstTicketNr;
+            ViewData["lastTicketNr"] = lastTicketNr;
+            return View(ViewList);
         }
 
         public static readonly List<Ticket> Tickets = new List<Ticket>();
