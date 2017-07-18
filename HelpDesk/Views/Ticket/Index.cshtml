@@ -1,0 +1,70 @@
+﻿@model List<HelpDesk.Models.Ticket>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+     <p>Add a ticket</p>
+    <form action="@Url.Action("Add")" method="POST">
+        <div class="form-group">
+            <label for="desc">Description:</label>
+            <textarea class="form-control col-md-12" name="description" id="desc" rows="5" autofocus placeholder="Enter your message.."></textarea>
+        </div>
+        <div class="form-group">
+            <label for="duedate">Deadline:</label>
+            <input type="datetime-local" class="form-control" name="duedate" id="duedate" />
+        </div>
+        <input type="submit" class="btn btn-primary" value="Submit">
+    </form>
+</div>
+
+@{
+    if (@Model.Count() < 1)
+    {
+
+        <form action="@Url.Action("GenerateData")" method="POST">
+            <input type="hidden" value="25" name="count" />
+            <input type="submit" class="btn btn-success" value="Generate random data">
+        </form>
+    }
+
+    else
+    {
+        <div id="ticketTableWrapper">
+            <h3>@Model.Count() Active Ticket(s)</h3>
+            <table class="table table-hover">
+                <tr>
+                    <th>Description</th>
+                    <th>Due Date</th>
+                    <th>Entry Date</th>
+                    <th></th>
+                </tr>
+                <tbody>
+
+                    @foreach (var ticket in Model.OrderBy(x => x.getDueDate()).ToList())
+                    {
+                        var className = ticket.getDueDate() < DateTime.Now.AddHours(1) ? "danger" : null;
+                        <tr class="@className">
+                            <td>
+                                @ticket.getDescription()
+                            </td>
+                            <td>
+                                @ticket.getDueDate()
+                            </td>
+                            <td>
+                                @ticket.getEntryDate()
+                            </td>
+                            <td>
+                                <form action="@Url.Action("MarkSolved")" method="POST">
+                                    <input type="hidden" value="@ticket.getId()" name="id" />
+                                    <input type="submit" class="btn btn-success" value="Mark Solved">
+                                </form>
+                            </td>
+                        </tr>
+
+                    }
+            </table>
+        </div>
+        }
+    }

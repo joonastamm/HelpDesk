@@ -1,0 +1,171 @@
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\ApplicationInsights.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\csc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\vbc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Antlr3.Runtime.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.Web.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Newtonsoft.Json.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\PagedList.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\PagedList.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Helpers.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Optimization.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\WebGrease.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.Web.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\PagedList.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\PagedList.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Helpers.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Optimization.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Antlr3.Runtime.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\Newtonsoft.Json.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\HelpDesk.dll.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\HelpDesk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\bin\HelpDesk.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\obj\Debug\HelpDesk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ForgetTheMilk\obj\Debug\HelpDesk.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\ApplicationInsights.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\csc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\vbc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\HelpDesk.dll.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\HelpDesk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\HelpDesk.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Antlr3.Runtime.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.Web.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Newtonsoft.Json.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\PagedList.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\PagedList.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Helpers.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Optimization.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\WebGrease.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.Web.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\PagedList.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\PagedList.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Helpers.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Optimization.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Antlr3.Runtime.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\bin\Newtonsoft.Json.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\obj\Debug\HelpDesk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\HelpDesk\obj\Debug\HelpDesk.pdb
+C:\Users\Joonas\helpdesk\HelpDesk\bin\ApplicationInsights.config
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\csc.exe
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\vbc.exe
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\helpdesk\HelpDesk\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\helpdesk\HelpDesk\bin\HelpDesk.dll.config
+C:\Users\Joonas\helpdesk\HelpDesk\bin\HelpDesk.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\HelpDesk.pdb
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Antlr3.Runtime.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.Web.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Newtonsoft.Json.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\PagedList.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\PagedList.Mvc.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Helpers.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Mvc.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Optimization.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Razor.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\WebGrease.dll
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.Web.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\PagedList.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\PagedList.Mvc.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Helpers.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Mvc.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Optimization.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.Razor.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Antlr3.Runtime.pdb
+C:\Users\Joonas\helpdesk\HelpDesk\bin\Newtonsoft.Json.xml
+C:\Users\Joonas\helpdesk\HelpDesk\obj\Debug\HelpDesk.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\helpdesk\HelpDesk\obj\Debug\HelpDesk.dll
+C:\Users\Joonas\helpdesk\HelpDesk\obj\Debug\HelpDesk.pdb

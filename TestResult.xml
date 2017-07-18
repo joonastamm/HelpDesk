@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.6.1.0" clr-version="4.0.30319.42000" start-time="2017-07-13 10:39:49Z" end-time="2017-07-13 10:39:49Z" duration="0.512530">
+  <command-line><![CDATA[packages\NUnit.ConsoleRunner.3.6.1\tools\nunit3-console.exe  ConsoleVerification\bin\Debug\ConsoleVerification.exe]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="ConsoleVerification.exe" fullname="C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ConsoleVerification.exe" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-07-13 10:39:49Z" end-time="2017-07-13 10:39:49Z" duration="0.041620" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.7.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.3.9600.0" platform="Win32NT" cwd="C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk" machine-name="SAMSUNG-PC" user="Joonas" user-domain="SAMSUNG-PC" culture="et-EE" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5" />
+      <setting name="ImageRequiresX86" value="True" />
+      <setting name="RunAsX86" value="True" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="4736" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="ConsoleVerification" fullname="ConsoleVerification" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-07-13 10:39:49Z" end-time="2017-07-13 10:39:49Z" duration="0.024212" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestFixture" id="0-1000" name="CreateTicketTests" fullname="ConsoleVerification.CreateTicketTests" classname="ConsoleVerification.CreateTicketTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-07-13 10:39:49Z" end-time="2017-07-13 10:39:49Z" duration="0.020827" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="0-1001" name="TestDescriptionAndNoDueDate" fullname="ConsoleVerification.CreateTicketTests.TestDescriptionAndNoDueDate" methodname="TestDescriptionAndNoDueDate" classname="ConsoleVerification.CreateTicketTests" runstate="Runnable" seed="1653287357" result="Passed" start-time="2017-07-13 10:39:49Z" end-time="2017-07-13 10:39:49Z" duration="0.011499" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

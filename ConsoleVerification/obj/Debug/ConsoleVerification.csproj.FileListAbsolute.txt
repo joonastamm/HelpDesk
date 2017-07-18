@@ -1,0 +1,112 @@
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ApplicationInsights.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\csc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\vbc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ConsoleVerification.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ForgetTheMilk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Optimization.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ForgetTheMilk.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Optimization.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\obj\Debug\ConsoleVerification.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\obj\Debug\ConsoleVerification.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\nunit.framework.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\nunit.framework.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ConsoleVerification.dll.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\bin\Debug\ConsoleVerification.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\ForgetTheMilk\ConsoleVerification\obj\Debug\ConsoleVerification.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\ApplicationInsights.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\csc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\vbc.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\ConsoleVerification.dll.config
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\ConsoleVerification.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\ConsoleVerification.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\nunit.framework.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Optimization.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Mvc.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\PagedList.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\nunit.framework.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Optimization.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Mvc.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\PagedList.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\obj\Debug\ConsoleVerification.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\obj\Debug\ConsoleVerification.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\obj\Debug\ConsoleVerification.pdb
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\HelpDesk.dll
+C:\Users\Joonas\Documents\Visual Studio 2015\Projects\HelpDeskApplication\ConsoleVerification\bin\Debug\HelpDesk.pdb
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\ApplicationInsights.config
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\csc.exe
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\vbc.exe
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\ConsoleVerification.dll.config
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\ConsoleVerification.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\ConsoleVerification.pdb
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\HelpDesk.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\nunit.framework.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Optimization.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Mvc.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\PagedList.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Razor.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\HelpDesk.pdb
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\nunit.framework.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Optimization.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Mvc.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\PagedList.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.Razor.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Joonas\helpdesk\ConsoleVerification\obj\Debug\ConsoleVerification.csprojResolveAssemblyReference.cache
+C:\Users\Joonas\helpdesk\ConsoleVerification\obj\Debug\ConsoleVerification.dll
+C:\Users\Joonas\helpdesk\ConsoleVerification\obj\Debug\ConsoleVerification.pdb

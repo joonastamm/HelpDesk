@@ -1,0 +1,44 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<HelpDesk.Models.Ticket>
+
+@{
+    ViewBag.Title = "All Tickets";
+    var ticketCount = (int)ViewData["totalTicketCount"];
+}
+
+<div id="ticketTableWrapper">
+    <h3>@ticketCount Ticket(s)</h3>
+    <table class="table table-hover">
+        <tr>
+            <th>Description</th>
+            <th>Due Date</th>
+            <th>Entry Date</th>
+            <th>Solved?</th>
+        </tr>
+        <tbody>
+
+        @foreach (var ticket in Model.OrderBy(x => x.getEntryDate()).ToList() )
+        {
+            var className = ticket.getDueDate() < DateTime.Now.AddHours(1) ? "danger" : null;
+            <tr class="@className">
+                <td>
+                    @ticket.getDescription()
+                    </td>
+                <td>
+                    @ticket.getDueDate()
+                </td>
+                <td>
+                    @ticket.getEntryDate()
+                </td>
+                <td>
+                    @if (ticket.isSolved()){
+                        <span class="glyphicon glyphicon-ok text-success"></span>
+                    }
+                </td>
+            </tr>
+        
+        }
+    </table>
+    @Html.PagedListPager(Model, page => Url.Action("All", new { page }))
+</div>
